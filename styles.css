@@ -7,9 +7,9 @@ h1{
   border: 4px double;
 }
 img {
-  height:400px;
+  height:450px;
   width:450px;
-  border-style: ridge;
+  padding-bottom: 200px
 }
 
 .imgparent {
