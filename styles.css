@@ -1,0 +1,19 @@
+body{
+  background-color: #EC6541;
+}
+h1{
+  text-align: center;
+  background-color: white;
+  border: 4px double;
+}
+img {
+  height:400px;
+  width:450px;
+  border-style: ridge;
+}
+
+.imgparent {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
